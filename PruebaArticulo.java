@@ -52,7 +52,7 @@ class Articulo {
     }
 }
 
-public class PruebaArticulo {
+public class Artic {
     public static void main(String[] args) {
         // Crear tres artículos
         Articulo articulo1 = new Articulo("A001", "Monitor Dell 24''");
